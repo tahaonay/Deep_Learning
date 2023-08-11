@@ -1,3 +1,14 @@
+### Nedir bu öğrenme ?
+İnsanlar gibi makinelerinde bir şeyleri yapabilmek için öncelikle öğrenmesi gerekmektedir. 
+Peki biz nasıl öğreniyoruz ki;
+
+1.Gözlemleme
+2.Bağlamlama
+3.Ödül-Ceza
+4.Anlama
+5.Pratik
+
+
 #### Derin Öğrenme:
 Derin öğrenme, bilgisayarlara veriyi olduğu gibi sunup, bunun içinden anlamlı bilgiler çıkarmayı hedefleyen öğrenme yöntemidir. Bu sayede, karmaşık verilerin içindeki desenleri ve ilişkileri daha iyi anlayabiliriz.
 
