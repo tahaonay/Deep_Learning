@@ -1,6 +1,14 @@
-# Deep Learning Journey
+# Temeller
+![image](https://github.com/tahaonay/Deep_Learning/assets/21277419/70b12355-84e7-4edb-8a2c-1d3604609019)
+#### Derin Öğrenme:
+Derin öğrenme, bilgisayarlara veriyi olduğu gibi sunup, bunun içinden anlamlı bilgiler çıkarmayı hedefleyen öğrenme yöntemidir. Bu sayede, karmaşık verilerin içindeki desenleri ve ilişkileri daha iyi anlayabiliriz.
 
-This repository is created to document my learning journey in the field of deep learning.
+#### Makine Öğrenmesi:
+Makine öğrenmesi, derin öğrenmenin aksine, bilgisayarlara önceden belirlenmiş kalıpları öğretme yöntemidir. Bu kalıplar, bilgisayarın veriyi analiz edip gelecekteki verileri tahmin etmesine yardımcı olur.
+
+#### Yapay Zeka:
+Yapay zeka, bilgisayarların akıllıca düşünmeyi taklit ettiği bir sistemdir. Bu sistemler, verileri inceler ve öğrenir, böylece problemleri çözmek için mantıklı adımlar atabilirler. Yapay zeka, öğrenme yetenekleri sayesinde karmaşık görevleri yerine getirebilir.
+
 
 
 ## Purpose
