@@ -74,5 +74,5 @@ Yapay zeka belirli bir amaç için üretilebileceği gibi (örn:Hava durumu tahm
 
 | Bölüm         | Açıklama      |
 | ------------- | ------------- |
-| [Temeller]([http://localhost/](https://github.com/tahaonay/Deep_Learning/tree/main/Temeller)https://github.com/tahaonay/Deep_Learning/tree/main/Temeller)      | ...           |
+| [Links with title]([http://localhost/](https://github.com/tahaonay/Deep_Learning/tree/main/Temeller/) "taha")      | ...           |
 | ...           | ...           |
