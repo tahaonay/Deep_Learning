@@ -6,7 +6,7 @@ Peki biz nasıl öğreniyoruz ki;
 
 İnsanlar, çevrelerindeki dünya ile etkileşime geçerek öğrenmek için gerekli olan veriyi toplarlar. Örneğin, bir bebeğin çevresini gözlemleyerek öğrenmeye başlaması gibi.
 
-2. **Bağlamlama**
+2. **Bağlam kurma**
 
 Öğrenme, toplanan verilerin birbiri ile bağlantılarını kurması ile başlar. Her yeni bağlantı öğrenmeyi daha iyi anlamlandırmanın anahtarıdır. Örneğin, elimizi sobaya değmemiz ile sobadan sıcaklık hissetmek arasında bir ilişki kurmamız.
 
@@ -53,7 +53,7 @@ Eğitilen model, yeni verilere dayalı olarak çıkarımlarda bulunur.
 Derin öğrenme(Deep learning) ve makine öğrenmesi(machine learning) terimleri, bir tür öğrenme yaklaşımıdır.
 
 #### Derin Öğrenme:
-Derin öğrenme, bilgisayarlara veriyi olduğu gibi sunup, bunun içinden anlamlı ilişkiler  çıkarmayı hedefleyen öğrenme yöntemidir. Bu yöntemde her bir işilki farklı bir katman ile değerlendirilerek istenen sonuca ulaşılır.
+Derin öğrenme, bilgisayarlara veriyi olduğu gibi sunup, bunun içinden anlamlı ilişkiler  çıkarmayı hedefleyen öğrenme yöntemidir. Bu yöntemde her bir ilişki farklı bir katman ile değerlendirilerek istenen sonuca ulaşılır.
 
 *Örnek olarak derin öğrenme kullanarak bir yüz tanıma sistemi geliştirelim. İlk adımda, bir veri kümesi oluştururuz. Bu veri kümesi, farklı insanlara ait yüz fotoğraflarını ve bu fotoğrafların kime ait olduğu etiketlerini içerir. Bu veri kümesini kullanarak derin bir sinir ağı modeli oluştururuz.
 Derin sinir ağı, katmanlar arasında karmaşık desenleri ve ilişkileri öğrenmeye çalışır. İlk katmanlar, basit özellikleri (kenarlar, çizgiler, eğriler gibi) öğrenirken, daha derin katmanlar yüzün daha karmaşık özelliklerini (göz ifadeleri, dudak şekli gibi) tanımayı öğrenir. Derin sinir ağı seviyesi arttıkça yüz tanıma performansı da o oranda artar. Tabi ki ihtiyaç duyulan işlem gücü de aynı oranda artmaktadır.
