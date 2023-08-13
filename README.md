@@ -74,7 +74,7 @@ Yapay zeka belirli bir amaç için üretilebileceği gibi (örn:Hava durumu tahm
 
 | Bölüm         | Açıklama      |
 | ------------- | ------------- |
-| [Temeller](https://github.com/tahaonay/Deep_Learning/tree/main/Temeller)     |  Kullanılacak ortam, PyTorch, Tanımlar       |
+| [PyTorch Temelleri](https://github.com/tahaonay/Deep_Learning/tree/main/Temeller)     |  Kullanılacak ortam, PyTorch, PyTorch ile ilgili komutlar       |
 | İş akışı      |              |
 | Sinir ağı sınıflandırma|              |
 | Bilgisayarlı görü|              |
